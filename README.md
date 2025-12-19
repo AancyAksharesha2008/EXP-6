@@ -11,6 +11,7 @@ DIAGRAM:
 CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-12-19 at 3 01 32 PM](https://github.com/user-attachments/assets/34b46509-e476-4f64-abce-581ac16604cb)
+![WhatsApp Image 2025-12-19 at 3 01 32 PM (1)](https://github.com/user-attachments/assets/6db6fded-c7c4-4ba7-8290-df917fea6553)
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
